@@ -1,0 +1,10 @@
+
+streamlit
+statsmodels
+prophet
+keras
+tensorflow
+torch
+scikit-learn
+matplotlib
+pandas
