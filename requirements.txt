@@ -5,7 +5,7 @@ scikit-learn
 matplotlib
 pandas
 prophet>=1.1
-keras>=2.11
 tensorflow-cpu==2.11.0
-torch
+keras==2.11.0
+torch==2.0.1
 mysql-connector-python
